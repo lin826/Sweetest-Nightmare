@@ -1,0 +1,38 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Jun 15 23:57:40 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "R10" LEVEL 1;
+COMP "audio_bck" LOCATE = SITE "K16" LEVEL 1;
+COMP "audio_appsel" LOCATE = SITE "H18" LEVEL 1;
+COMP "rst_n" LOCATE = SITE "T2" LEVEL 1;
+PIN rst_n_pin<0> = BEL "rst_n" PINNAME PAD;
+PIN "rst_n_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "audio_sysclk" LOCATE = SITE "H17" LEVEL 1;
+COMP "LCD_data<0>" LOCATE = SITE "F6" LEVEL 1;
+COMP "LCD_data<1>" LOCATE = SITE "D3" LEVEL 1;
+COMP "LCD_data<2>" LOCATE = SITE "E4" LEVEL 1;
+COMP "LCD_data<3>" LOCATE = SITE "G6" LEVEL 1;
+COMP "LCD_data<4>" LOCATE = SITE "H7" LEVEL 1;
+COMP "LCD_data<5>" LOCATE = SITE "D1" LEVEL 1;
+COMP "LCD_data<6>" LOCATE = SITE "D2" LEVEL 1;
+COMP "LCD_data<7>" LOCATE = SITE "F3" LEVEL 1;
+COMP "LCD_di" LOCATE = SITE "C1" LEVEL 1;
+COMP "LCD_en" LOCATE = SITE "F5" LEVEL 1;
+COMP "LCD_rw" LOCATE = SITE "C2" LEVEL 1;
+COMP "audio_data" LOCATE = SITE "L16" LEVEL 1;
+COMP "col<0>" LOCATE = SITE "H1" LEVEL 1;
+COMP "col<1>" LOCATE = SITE "H2" LEVEL 1;
+COMP "col<2>" LOCATE = SITE "J1" LEVEL 1;
+COMP "col<3>" LOCATE = SITE "J3" LEVEL 1;
+COMP "audio_ws" LOCATE = SITE "L15" LEVEL 1;
+COMP "row<0>" LOCATE = SITE "L3" LEVEL 1;
+COMP "row<1>" LOCATE = SITE "L4" LEVEL 1;
+COMP "row<2>" LOCATE = SITE "K1" LEVEL 1;
+COMP "row<3>" LOCATE = SITE "K2" LEVEL 1;
+COMP "LCD_rstn" LOCATE = SITE "E3" LEVEL 1;
+COMP "LCD_cs1" LOCATE = SITE "F4" LEVEL 1;
+COMP "LCD_cs2" LOCATE = SITE "E1" LEVEL 1;
+SCHEMATIC END;
+

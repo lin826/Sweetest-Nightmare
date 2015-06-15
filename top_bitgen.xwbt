@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.ncd
+OUTFILE=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final
+LICENSE=WebPack
+USER_INFO=211027126_0_0_751

@@ -1,0 +1,22 @@
+`ifndef _LCD_VH_
+`define _LCD_VH_
+
+`define CMD_DISPLAY_ON 8'b0011_1111
+`define CMD_DISPLAY_OFF 8'0011_1110
+`define TEMPLATE_SET_Y 8'b01_000000
+`define TEMPLATE_SET_X 8'b1011_1000
+`define TEMPLATE_SET_STARTLINE 8'b11_000000
+
+`define STATE_DISPLAY_ON 3'b000
+`define STATE_SET_STARTLINE 3'b001
+`define STATE_SET_Y_COUNTER 3'b010
+`define STATE_SET_X_COUNTER 3'b011
+`define STATE_WRITE 3'b100
+
+`define MODE_CMD 1'b0
+`define MODE_DATA 1'b1
+
+`define MAX_INDEX 8'd64
+`define MAX_PAGE 3'o7
+
+`endif

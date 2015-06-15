@@ -1,0 +1,7 @@
+verilog work "note_generator_2.v"
+verilog work "node_div_controller.v"
+verilog work "LCDController.v"
+verilog work "Keyboard.v"
+verilog work "clk_div.v"
+verilog work "buzzer_control.v"
+verilog work "top.v"
