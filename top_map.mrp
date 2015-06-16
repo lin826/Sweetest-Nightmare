@@ -10,40 +10,40 @@ Target Device  : xc6slx16
 Target Package : csg324
 Target Speed   : -3
 Mapper Version : spartan6 -- $Revision: 1.55 $
-Mapped Date    : Tue Jun 16 15:01:37 2015
+Mapped Date    : Tue Jun 16 17:27:40 2015
 
 Design Summary
 --------------
 Number of errors:      0
 Number of warnings:    0
 Slice Logic Utilization:
-  Number of Slice Registers:                   413 out of  18,224    2%
-    Number used as Flip Flops:                 389
+  Number of Slice Registers:                   389 out of  18,224    2%
+    Number used as Flip Flops:                 365
     Number used as Latches:                      0
     Number used as Latch-thrus:                  0
     Number used as AND/OR logics:               24
-  Number of Slice LUTs:                      3,384 out of   9,112   37%
-    Number used as logic:                    3,367 out of   9,112   36%
-      Number using O6 output only:           2,550
-      Number using O5 output only:              82
-      Number using O5 and O6:                  735
+  Number of Slice LUTs:                      3,319 out of   9,112   36%
+    Number used as logic:                    3,303 out of   9,112   36%
+      Number using O6 output only:           2,479
+      Number using O5 output only:              81
+      Number using O5 and O6:                  743
       Number used as ROM:                        0
     Number used as Memory:                       0 out of   2,176    0%
-    Number used exclusively as route-thrus:     17
+    Number used exclusively as route-thrus:     16
       Number with same-slice register load:      4
-      Number with same-slice carry load:        13
+      Number with same-slice carry load:        12
       Number with other load:                    0
 
 Slice Logic Distribution:
-  Number of occupied Slices:                 1,146 out of   2,278   50%
-  Number of MUXCYs used:                     1,492 out of   4,556   32%
-  Number of LUT Flip Flop pairs used:        3,435
-    Number with an unused Flip Flop:         3,041 out of   3,435   88%
-    Number with an unused LUT:                  51 out of   3,435    1%
-    Number of fully used LUT-FF pairs:         343 out of   3,435    9%
+  Number of occupied Slices:                 1,153 out of   2,278   50%
+  Number of MUXCYs used:                     1,448 out of   4,556   31%
+  Number of LUT Flip Flop pairs used:        3,375
+    Number with an unused Flip Flop:         3,001 out of   3,375   88%
+    Number with an unused LUT:                  56 out of   3,375    1%
+    Number of fully used LUT-FF pairs:         318 out of   3,375    9%
     Number of unique control sets:              39
     Number of slice register sites lost
-      to control set restrictions:             171 out of  18,224    1%
+      to control set restrictions:             187 out of  18,224    1%
 
   A LUT Flip Flop pair for this architecture represents one LUT paired with
   one Flip Flop within a slice.  A control set is a unique combination of
@@ -80,10 +80,10 @@ Specific Feature Utilization:
   Number of STARTUPs:                            0 out of       1    0%
   Number of SUSPEND_SYNCs:                       0 out of       1    0%
 
-Average Fanout of Non-Clock Nets:                4.61
+Average Fanout of Non-Clock Nets:                4.65
 
 Peak Memory Usage:  453 MB
-Total REAL time to MAP completion:  1 mins 22 secs 
+Total REAL time to MAP completion:  1 mins 18 secs 
 Total CPU time to MAP completion:   1 mins 14 secs 
 
 Table of Contents

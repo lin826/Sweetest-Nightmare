@@ -36,7 +36,7 @@ Setup/Hold to clock clk
             |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
 Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
 ------------+------------+------------+------------+------------+------------------+--------+
-rst_n       |    4.439(R)|      SLOW  |   -1.107(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
+rst_n       |    3.599(R)|      SLOW  |   -1.011(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
 ------------+------------+------------+------------+------------+------------------+--------+
 
 Clock clk to Pad
@@ -44,9 +44,9 @@ Clock clk to Pad
             |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
 Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
-audio_bck   |         7.371(R)|      SLOW  |         3.870(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
-audio_data  |         8.714(R)|      SLOW  |         4.415(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
-audio_ws    |         7.122(R)|      SLOW  |         3.684(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
+audio_bck   |         7.748(R)|      SLOW  |         4.056(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
+audio_data  |         8.913(R)|      SLOW  |         4.482(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
+audio_ws    |         7.726(R)|      SLOW  |         4.015(R)|      FAST  |clk_IBUF_BUFG     |   0.000|
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
 
 Clock to Setup on destination clock clk
@@ -54,7 +54,7 @@ Clock to Setup on destination clock clk
                | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
 Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 ---------------+---------+---------+---------+---------+
-clk            |    4.240|         |         |         |
+clk            |    4.485|         |         |         |
 ---------------+---------+---------+---------+---------+
 
 Pad to Pad
@@ -65,7 +65,7 @@ clk            |audio_sysclk   |    7.915|
 ---------------+---------------+---------+
 
 
-Analysis completed Tue Jun 16 15:04:03 2015 
+Analysis completed Tue Jun 16 17:29:55 2015 
 --------------------------------------------------------------------------------
 
 Trace Settings:

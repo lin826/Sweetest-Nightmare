@@ -267,8 +267,8 @@ module LCDController(
 			// Shadow
 			shadow_addr_y<=0;
 			shadow_line<=0;
-			shadow_speed_y=0;
-			shadow_speed_x=0;
+			shadow_speed_y<=0;
+			shadow_speed_x<=0;
 			shadow_delay<=0;
 			
 			// AI
@@ -2200,17 +2200,15 @@ endcase
 	
 	task shadow_move;
 	begin
-	if(showShadow==1) begin
-		shadow_addr_y <= shadow_addr_y+shadow_speed_y;
-		shadow_line <= shadow_line+shadow_speed_x;
-		if(shadow_addr_y>120 || shadow_addr_y< 8 || shadow_line >55 || shadow_line<10) begin
-			showShadow = 0;
-		end else if((obj_addr_y-shadow_addr_y<RANGE || shadow_addr_y-obj_addr_y<RANGE) 
-						&& ( shadow_line-obj_line<RANGE || obj_line-shadow_line<RANGE )) begin
-			if(Heart_addr_y>10)	Heart_addr_y <= Heart_addr_y -10;
-			showShadow = 0;
-		end else ;
-	end else ;
+		if(showShadow) begin
+			shadow_addr_y <= shadow_addr_y - shadow_speed_y;
+			shadow_line <= shadow_line - shadow_speed_x;
+			if(shadow_addr_y > 120 || shadow_addr_y < 8 || shadow_line > 55 || shadow_line < 10) begin
+				showShadow = 0;
+			end 
+			else
+				showShadow = 1;
+		end
 	end
 	endtask
 		
