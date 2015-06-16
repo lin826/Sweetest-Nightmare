@@ -5,670 +5,697 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 72: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 72: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 73: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 73: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 74: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 74: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 15: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="1490" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2156: Loop valiable declaration is not allowed in this mode of verilog
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 35: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 15: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 46: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 35: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 57: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 46: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 68: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 57: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 79: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 68: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\clk_div.v" Line 90: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 79: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v" Line 46: Assignment to <arg fmt="%s" index="1">clock_1MHz</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\clk_div.v" Line 90: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 213: Assignment to <arg fmt="%s" index="1">ball_dis_y</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v" Line 46: Assignment to <arg fmt="%s" index="1">clock_1MHz</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 224: Assignment to <arg fmt="%s" index="1">shadow_dis_y</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 213: Assignment to <arg fmt="%s" index="1">ball_dis_y</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2163: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 224: Assignment to <arg fmt="%s" index="1">shadow_dis_y</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2155: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 1941: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2018: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 1790: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2170: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2238: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2021: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2296: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2029: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 1978: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2032: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2154: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2041: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2155: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2044: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2172: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2051: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2164: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2054: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2018: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2065: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2179: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2068: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2021: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2076: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2029: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2079: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2032: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2088: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2041: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2091: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2044: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2098: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2051: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2101: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2054: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2116: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2065: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2135: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2068: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2146: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2076: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2147: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2079: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 1790: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2088: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2227: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2091: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2285: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2098: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 1941: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2101: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 1978: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2116: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2177: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2135: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2178: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2146: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2185: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2147: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2187: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2186: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2194: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2187: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2195: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2194: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 2200: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2196: Result of <arg fmt="%d" index="1">7</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\LCDController.v" Line 237: Assignment to <arg fmt="%s" index="1">obj_addr_x</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2204: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2205: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">6</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 2210: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 72: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\LCDController.v" Line 237: Assignment to <arg fmt="%s" index="1">obj_addr_x</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 73: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 74: Concatenation with unsized literal; will interpret as 32 bits
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\note_generator_2.v" Line 69: Using initial value of <arg fmt="%s" index="1">triangle_table</arg> since it is never assigned
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 72: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1MHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 73: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_10KHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="warning" file="HDLCompiler" num="327" delta="old" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 74: Concatenation with unsized literal; will interpret as 32 bits
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1KHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="warning" file="HDLCompiler" num="872" delta="new" >"C:\Users\User\Documents\GitHub\Sweetest-Nightmare\note_generator_2.v" Line 69: Using initial value of <arg fmt="%s" index="1">triangle_table</arg> since it is never assigned
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_100Hz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1MHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1Hz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_10KHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">rst_n</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1KHz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">kb</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_1&gt; </arg>
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_100Hz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">kb</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_2&gt; </arg>
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.v</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">clock_1Hz</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">c</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Keyboard</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_1&gt; </arg>
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">rst_n</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Keyboard</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_2&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">kb</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_1&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_0&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">kb</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_2&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_1&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Keyboard</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_1&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_2&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">present_row_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Keyboard</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;last_row_2&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_3&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_0&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_4&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_1&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_5</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_5&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_2&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_10</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_10&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_3&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_6&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_4&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_11&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_5</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_5&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_7</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_7&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_10</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_10&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_12</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_12&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_6&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_8</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_8&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_11&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_13</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_13&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_7</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_7&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_9</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_9&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_12</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_12&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_14</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_14&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_8</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_8&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_15</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_15&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_13</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_13&gt; </arg>
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_9</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_9&gt; </arg>
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_14</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_14&gt; </arg>
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">audio_left_15</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">buzzer_control</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;audio_right_15&gt; </arg>
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_x_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_y_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">shadow_speed_y_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">delay_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">node_div_controller</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">delay_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">node_div_controller</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">dir_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">obj_speed_x_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">LCDController</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">delay_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">node_div_controller</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">delay_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">node_div_controller</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_4</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">line_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_5</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_6</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_4</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_5</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_4</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">line_5</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_15</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_4</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_5</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_6</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1895" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">AI_addr_y_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_1Hz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">dir_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">LCDController</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_1Hz_int</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_15</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_100Hz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_1KHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_10KHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/count_1Hz_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">c/clock_1MHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_1Hz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/AI_addr_y_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_1Hz_int</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/AI_addr_y_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_100Hz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_1KHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_10KHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">c/clock_1MHz</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_y_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_y_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
 <msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_x_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_addr_y_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_addr_y_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_y_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/shadow_speed_y_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_x_5</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/obj_speed_x_4&gt; &lt;lcd_ctrl/obj_speed_x_3&gt; &lt;lcd_ctrl/obj_speed_x_2&gt; &lt;lcd_ctrl/obj_speed_x_1&gt; </arg>
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_y_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top</arg>&gt;.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_y_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/obj_speed_y_6&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_x_5</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/obj_speed_x_4&gt; &lt;lcd_ctrl/obj_speed_x_3&gt; &lt;lcd_ctrl/obj_speed_x_2&gt; &lt;lcd_ctrl/obj_speed_x_1&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/shadow_speed_x_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/shadow_speed_x_4&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/obj_speed_y_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/obj_speed_y_6&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_x_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/ball_speed_x_5&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/shadow_speed_x_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/shadow_speed_x_4&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_9</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_5&gt; &lt;b_c/audio_left_1&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/shadow_speed_y_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/shadow_speed_x_0&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_10</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_6&gt; &lt;b_c/audio_left_2&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/shadow_speed_y_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/shadow_speed_y_6&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_7&gt; &lt;b_c/audio_left_3&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_x_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/ball_speed_x_5&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_12</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_8&gt; &lt;b_c/audio_left_4&gt; </arg>
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">lcd_ctrl/ball_speed_y_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;lcd_ctrl/ball_speed_y_7&gt; </arg>
 </msg>
 
-<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_9</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_5&gt; &lt;b_c/audio_left_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_10</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_6&gt; &lt;b_c/audio_left_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_7&gt; &lt;b_c/audio_left_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">b_c/audio_left_12</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;b_c/audio_left_8&gt; &lt;b_c/audio_left_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
 </msg>
 
 </messages>

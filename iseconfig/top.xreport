@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-06-15T21:33:56</DateModified>
+  <DateModified>2015-06-16T00:17:28</DateModified>
   <ModuleName>top</ModuleName>
   <SummaryTimeStamp>2015-06-03T20:06:06</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/User/Documents/Hardware Lab/Hardware_Lab_Final/iseconfig/top.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/User/Documents/Hardware Lab/Hardware_Lab_Final\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/User/Documents/GitHub/Sweetest-Nightmare/iseconfig/top.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/User/Documents/GitHub/Sweetest-Nightmare\</ImplementationReportsDirectory>
   <DateInitialized>2015-06-03T20:05:17</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

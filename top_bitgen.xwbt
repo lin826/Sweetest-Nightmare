@@ -1,8 +1,8 @@
 INTSTYLE=ise
-INFILE=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.ncd
-OUTFILE=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final\top.bit
+INFILE=C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.ncd
+OUTFILE=C:\Users\User\Documents\GitHub\Sweetest-Nightmare\top.bit
 FAMILY=Spartan6
 PART=xc6slx16-3csg324
-WORKINGDIR=C:\Users\User\Documents\Hardware Lab\Hardware_Lab_Final
+WORKINGDIR=C:\Users\User\Documents\GitHub\Sweetest-Nightmare
 LICENSE=WebPack
 USER_INFO=211027126_0_0_751

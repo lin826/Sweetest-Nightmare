@@ -288,7 +288,7 @@ module LCDController(
 				delay <= delay - 2'b1;
 			else begin	
 				if(level == 5)
-					ball_roll();
+					drawBall();
 				else ;			
 				case (ctrl_code_i)
 					`KEYCODE_8: begin
@@ -1530,12 +1530,12 @@ endcase
 			drawObject();
 		end else if(addr_y >= AI_addr_y && addr_y <= AI_addr_y + 8 && (addr_x == AI_line / 8 || addr_x == (AI_line / 8) + 1)) begin
 			drawAI();
-		end /*else if(addr_y >= (ball_addr_y) && addr_y <= (ball_addr_y + 8) && (addr_x == ball_line / 8 || addr_x == (ball_line / 8) + 1)) begin
-			drawBall(); 
-		end */else begin
+		end else if(addr_y >= (ball_addr_y) && addr_y <= (ball_addr_y + 8) && (addr_x == ball_line / 8 || addr_x == (ball_line / 8) + 1)) begin
+			ball_rainy(); 
+		end else begin
 			lcd_d <= 8'b0;
 		end
-		if(obj_line==AI_line && obj_addr_y==AI_addr_y)
+		if((AI_line-obj_line<8 || obj_line-AI_line<8) && obj_addr_y-AI_addr_y<8)
 			next_level();
 	end
 	endtask
@@ -1994,11 +1994,11 @@ endcase
 	
 	task setShadow;
 	begin
-		showShadow = 1;
 		shadow_addr_y <= ball_addr_y;
 		shadow_line <= ball_line;
-		shadow_speed_x = ball_speed_x;
-		shadow_speed_y = ball_speed_y;
+		shadow_speed_x <= ball_speed_x;
+		shadow_speed_y <= ball_speed_y;
+		showShadow = 1;
 	end
 	endtask
 	
@@ -2149,6 +2149,15 @@ endcase
 	end
 	endtask
 	
+	task ball_rainy;
+	begin
+		ball_addr_y <= ball_addr_y + ball_speed_y;
+		ball_line <= ball_line + ball_speed_x;
+		for(integer i=0;i<8;i=i+1)
+			lcd_d[i] <= 1;
+	end
+	endtask
+	
 	task add_Heart;
 	begin
 		if(Heart_addr_y<110)
@@ -2191,15 +2200,17 @@ endcase
 	
 	task shadow_move;
 	begin
+	if(showShadow==1) begin
 		shadow_addr_y <= shadow_addr_y+shadow_speed_y;
 		shadow_line <= shadow_line+shadow_speed_x;
-		if(shadow_addr_y>120 || shadow_addr_y< 8 || obj_line >55 || obj_line<10) begin
+		if(shadow_addr_y>120 || shadow_addr_y< 8 || shadow_line >55 || shadow_line<10) begin
 			showShadow = 0;
 		end else if((obj_addr_y-shadow_addr_y<RANGE || shadow_addr_y-obj_addr_y<RANGE) 
 						&& ( shadow_line-obj_line<RANGE || obj_line-shadow_line<RANGE )) begin
 			if(Heart_addr_y>10)	Heart_addr_y <= Heart_addr_y -10;
 			showShadow = 0;
 		end else ;
+	end else ;
 	end
 	endtask
 		
